@@ -1,0 +1,19 @@
+----------------------------------------------how to use---------------------------------
+
+
+
+keybinds:
+
+k = toggle clicker
+
+ESC = quit
+
+clicker info:
+
+CPS slider (1–50)
+
+Left / Right click switch
+
+Random CPS variation
+
+rest should be common sense
